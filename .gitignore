@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Python
+venv/
+*.pyc
+
+# IDEs
+.idea/
+.vscode/
+
+# Build artifacts
+dist/
+build/
